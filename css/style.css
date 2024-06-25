@@ -10,7 +10,7 @@ body {
 
 h1, h2, h3, h4, h5, p, span {
 	margin: 0;
-	color: #666;
+	color: #B0E0E6;
 }
 
 .container {
@@ -27,7 +27,7 @@ header {
 }
 
 /* navbar */
-nav { 
+nav {
 	position: fixed;
 	top: 0;
 	height: 100px;
@@ -47,13 +47,13 @@ nav {
  	max-width: 1200px;
  	position: relative;
  	margin-right: auto;
- 	margin-left: auto; 	
+ 	margin-left: auto;
  }
 
  #logo {
- 	width: 50px;
- 	height: 50px;
- 	margin-top: 25px;
+ 	width: 170px;
+ 	height: 80px;
+ 	margin-top: 20px;
  }
 
  .nav-container ul {
@@ -100,13 +100,13 @@ nav {
  }
 
  #search-form h1 {
- 	font-size: 40px;
+ 	font-size: 70px;
  }
 
  #search-form p {
  	margin-top: 30px;
  	margin-bottom: 60px;
- 	font-size: 18px;
+ 	font-size: 25px;
  	font-weight: 300px;
  }
 
